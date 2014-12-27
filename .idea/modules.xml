@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GuessBrands.iml" filepath="$PROJECT_DIR$/GuessBrands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuessBrandsM/GuessBrandsM.iml" filepath="$PROJECT_DIR$/GuessBrandsM/GuessBrandsM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../forRoma/Programs/adt-bundle-windows-x86_64-20140702/sdk/extras/android/support/v7/appcompat/appcompat.iml" filepath="$PROJECT_DIR$/../../forRoma/Programs/adt-bundle-windows-x86_64-20140702/sdk/extras/android/support/v7/appcompat/appcompat.iml" />
+    </modules>
+  </component>
+</project>
